@@ -38,3 +38,15 @@ Solutions are automatically synced from LeetCode to GitHub using LeetHub v2.
 
 - **GitHub:** https://github.com/ramanverma-dev
 - **LeetCode:** https://leetcode.com/u/ramanvermadev/
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/ramanverma-dev/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/ramanverma-dev/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+<!---LeetCode Topics End-->
