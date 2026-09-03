@@ -45,8 +45,13 @@ Solutions are automatically synced from LeetCode to GitHub using LeetHub v2.
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/ramanverma-dev/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1920-build-array-from-permutation](https://github.com/ramanverma-dev/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/ramanverma-dev/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/ramanverma-dev/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
