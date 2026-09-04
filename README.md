@@ -46,6 +46,7 @@ Solutions are automatically synced from LeetCode to GitHub using LeetHub v2.
 | ------- |
 | [0066-plus-one](https://github.com/ramanverma-dev/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/ramanverma-dev/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/ramanverma-dev/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/ramanverma-dev/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/ramanverma-dev/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/ramanverma-dev/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -67,4 +68,8 @@ Solutions are automatically synced from LeetCode to GitHub using LeetHub v2.
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ramanverma-dev/LeetCode-Solutions/tree/master/0066-plus-one) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/ramanverma-dev/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
