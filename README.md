@@ -44,6 +44,7 @@ Solutions are automatically synced from LeetCode to GitHub using LeetHub v2.
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ramanverma-dev/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/ramanverma-dev/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/ramanverma-dev/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/ramanverma-dev/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
@@ -76,5 +77,6 @@ Solutions are automatically synced from LeetCode to GitHub using LeetHub v2.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ramanverma-dev/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/ramanverma-dev/LeetCode-Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
