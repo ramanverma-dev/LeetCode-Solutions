@@ -44,6 +44,7 @@ Solutions are automatically synced from LeetCode to GitHub using LeetHub v2.
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ramanverma-dev/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ramanverma-dev/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/ramanverma-dev/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/ramanverma-dev/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -65,6 +66,7 @@ Solutions are automatically synced from LeetCode to GitHub using LeetHub v2.
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ramanverma-dev/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/ramanverma-dev/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Math
 |  |
